@@ -1,8 +1,29 @@
-- 👋 Hi, I’m Daniil, @jkdnl
-- 👀 I’m interested in frontend development
-- 🌱 I’m currently learning React and Git, mastering JS and working on my protfolio 
+# Resume
 
-<!---
-jkdnl/jkdnl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Me
+
+Daniil Iakovelv, Saint Petersburg
+
+Have been learning FrontEnd for and year now. Self taught HTML,CSS,JS,React, then went through the paid course (of Vladilen Minin) to have better image of commercial development and learn the basis of the most common libraries
+
+## Stack 
+
+### JS
+
+Learning TypeScript
+
+### React experience
+
+1. Redux-toolkits
+
+2. Routes
+
+3. Fetch, axios
+
+4. Basic and Custom hooks
+
+### Styling experience 
+
+1. CSS
+2. Bootstrap
+3. Tailwind
