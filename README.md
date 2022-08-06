@@ -16,7 +16,7 @@ Learning TypeScript
 
 1. Redux-toolkits
 
-2. Routes
+2. Router
 
 3. Fetch, axios
 
