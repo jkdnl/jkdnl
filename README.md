@@ -14,7 +14,7 @@ Learning TypeScript
 
 ### React experience
 
-1. Redux-toolkits
+1. Redux-toolkit => RTQ
 
 2. Router
 
