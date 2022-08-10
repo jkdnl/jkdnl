@@ -10,7 +10,7 @@ Have been learning FrontEnd for and year now. Self taught HTML,CSS,JS,React, the
 
 ### JS
 
-Learning TypeScript
+Practicing TypeScript
 
 ### React experience
 
