@@ -9,7 +9,10 @@ Daniil Iakovelv, Saint Petersburg, HSE
 1) React, Router, Hooks
 2) Redux, RTQ
 3) Fetch, Axios
-4) Bootstrap, Tailwind, CSS
+4) TypeScript
+5) Bootstrap, Tailwind, CSS
+
+Also experinced with libraries such as lodash, formik and etc
 
 ## Experience
 
