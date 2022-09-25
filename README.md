@@ -1,6 +1,6 @@
 # Resume
 
-## Me
+## About
 
 Daniil Iakovelv, Saint Petersburg, HSE
 
@@ -19,6 +19,6 @@ Also experinced with libraries such as lodash, formik and etc
 * One year of self studying
 * Participating at the JFD course by Vladilen Minin
 * One year of managing the HSE's Policitac Science department's web page
-* Half an year of trainings and pet projects (checj the repositories)
+* Half an year of trainings and pet projects (check the repositories)
 
 [The recent pet project](https://github.com/jkdnl/todo-pet-app)
