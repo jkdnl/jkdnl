@@ -2,28 +2,20 @@
 
 ## Me
 
-Daniil Iakovelv, Saint Petersburg
-
-Have been learning FrontEnd for and year now. Self taught HTML,CSS,JS,React, then went through the paid course (of Vladilen Minin) to have better image of commercial development and learn the basis of the most common libraries
+Daniil Iakovelv, Saint Petersburg, HSE
 
 ## Stack 
 
-### JS
+1) React, Router, Hooks
+2) Redux, RTQ
+3) Fetch, Axios
+4) Bootstrap, Tailwind, CSS
 
-Practicing TypeScript
+## Experience
 
-### React experience
+* One year of self studying
+* Participating at the JFD course by Vladilen Minin
+* One year of managing the HSE's Policitac Science department's web page
+* Half an year of trainings and pet projects (checj the repositories)
 
-1. Redux-toolkit => RTQ
-
-2. Router
-
-3. Fetch, axios
-
-4. Basic and Custom hooks
-
-### Styling experience 
-
-1. CSS
-2. Bootstrap
-3. Tailwind
+[The recent pet project](https://github.com/jkdnl/todo-pet-app)
