@@ -31,4 +31,5 @@ Also experinced with libraries such as lodash, formik and etc
 * Half an year of trainings and pet projects (check the repositories)
 
 [The recent frontend pet project](https://github.com/jkdnl/todo-pet-app)
+
 [Latest fullstack app](https://github.com/jkdnl/widget-app)
